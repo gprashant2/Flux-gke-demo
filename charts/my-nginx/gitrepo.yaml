@@ -4,7 +4,7 @@ metadata:
   name: flux-gke-demo
   namespace: flux-system
 spec:
-  interval: 1m0s
+  interval: 1m
   url: https://github.com/gprashant2/Flux-gke-demo
   ref:
     branch: main
