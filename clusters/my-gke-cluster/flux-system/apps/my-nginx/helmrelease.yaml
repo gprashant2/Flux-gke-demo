@@ -7,7 +7,7 @@ spec:
   interval: 1m
   chart:
     spec:
-      chart: ./charts/my-nginx
+      chart: ../charts/my-nginx
       sourceRef:
         kind: GitRepository
         name: Flux-gke-demo
