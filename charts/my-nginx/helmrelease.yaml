@@ -10,5 +10,5 @@ spec:
       chart: ./charts/my-nginx
       sourceRef:
         kind: GitRepository
-        name: flux-gke-demo
+        name: Flux-gke-demo
         namespace: flux-system
