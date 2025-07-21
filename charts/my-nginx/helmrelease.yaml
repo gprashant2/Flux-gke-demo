@@ -4,7 +4,7 @@ metadata:
   name: my-nginx
   namespace: default
 spec:
-  interval: 1m0s
+  interval: 1m
   chart:
     spec:
       chart: ./charts/my-nginx
